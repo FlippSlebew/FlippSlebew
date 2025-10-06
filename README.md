@@ -1,4 +1,4 @@
-<!-- Animated Banner -->
+<!-- Animated Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=⚡%20FlippSlebew%20⚡&fontSize=50&fontColor=fff&animation=twinkling" />
 </p>
@@ -6,17 +6,17 @@
 <!-- Typing Intro -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hey!+I'm+FlippSlebew+👋;Web+Developer+%7C+UI+Designer+%7C+Tech+Enthusiast;Always+learning+new+things+🚀">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hey!+I'm+FlippSlebew+👋;Web+Developer+%7C+UI+Designer+%7C+Tech+Enthusiast;Welcome+to+my+Digital+World+🌐" />
   </a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 💡 Passionate about **Front-End Development** & **Creative Design**
-- 🌱 Currently learning **React.js**, **Next.js**, and **Tailwind CSS**
-- ⚡ Love clean UI + dark mode everything
-- 🎮 Hobbies: Coding • Gaming • Making cool projects
+- 💡 Passionate about **Front-End Development** & **Creative UI Design**
+- 🌱 Currently exploring **Next.js** and **TailwindCSS**
+- ⚡ Love dark themes, pixel art, and futuristic vibes
+- 🎮 Enjoy: Coding • Gaming • Anime • Music Lo-Fi
 
 ---
 
@@ -28,7 +28,6 @@
   <img src="https://img.shields.io/badge/Style-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Database-MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tool-Git-orange?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
@@ -46,7 +45,7 @@
 
 ---
 
-### 🏆 Trophies
+### 🏆 Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=FlippSlebew&theme=tokyonight&no-frame=true&row=1&margin-w=15" />
@@ -54,19 +53,31 @@
 
 ---
 
-### 👁️ Visitors Count
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://github.com/FlippSlebew"><img src="https://img.shields.io/badge/GitHub-FlippSlebew-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.instagram.com/yukishiiroo/"><img src="https://img.shields.io/badge/Instagram-@yukishiiroo-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@yaekuxinn"><img src="https://img.shields.io/badge/TikTok-@yaekuxinn-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+  <a href="mailto:flipp.dev@example.com"><img src="https://img.shields.io/badge/Email-flipp.dev%40example.com-blue?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
+---
+
+### 👁️ Visitors Count
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FlippSlebew&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
 ---
 
-### 🔗 Connect With Me
+### 🕹️ Fun Animations (Because Why Not 😁)
 <p align="center">
-  <a href="https://github.com/FlippSlebew"><img src="https://img.shields.io/badge/GitHub-FlippSlebew-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-@flipp__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:flipp.dev@example.com"><img src="https://img.shields.io/badge/Email-flipp.dev%40example.com-blue?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <!-- Pac-Man animation -->
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <br>
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="150px" />
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="150px" />
+  <img src="https://media.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="150px" />
 </p>
 
 ---
